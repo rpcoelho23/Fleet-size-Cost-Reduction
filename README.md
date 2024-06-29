@@ -1,0 +1,1 @@
+This is a Fleet Size Cost Reduction project I developed for a Fortune 500 company.  The project involved calculating several statistics from fleet usage and though process optimizations in the unloading times be able to reduce several trucs from the fleet.
